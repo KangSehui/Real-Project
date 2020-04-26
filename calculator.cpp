@@ -6,7 +6,8 @@ void addition(){
 }
 
 void subtraction(){
-
+    int answer = a - b;
+    cout << "= " << answer << endl;
 }
 
 void multiplication(){
