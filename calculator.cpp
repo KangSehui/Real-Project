@@ -8,7 +8,6 @@ void subtraction(){
 
 
 
-
 }
 
 void multiplication(){
@@ -18,5 +17,5 @@ cout << "= " << a * b << endl;
 }
 
 void division(){
-cout << "= " << a / b << endl;
+    cout << "= " << a / b << endl;
 }
