@@ -8,10 +8,12 @@ void subtraction(){
 
 }
 
-void multiplication(){
-
+void multiplication(int a, int b){
+    int answer = a*b;
+    cout << "= " << answer << endl;
 }
 
-void division(){
-    
+void division(int a, int b){
+    int answer = a/b;
+    cout << "= " << answer << endl;
 }
