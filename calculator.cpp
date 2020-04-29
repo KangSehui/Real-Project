@@ -6,6 +6,8 @@ void addition(){
 }
 
 void subtraction(){
+    int answer = a - b;
+    cout << "= " << answer << endl;
 }
 
 void multiplication(){
@@ -16,8 +18,13 @@ void multiplication(){
 }
 
 void division(){
+<<<<<<< HEAD
     int a1 = a, a2 = b;
     int result = a1/a2;
     cout<<a1/a2;
     cout<<'\n';
 }
+=======
+    
+}
+>>>>>>> origin/jjayo
