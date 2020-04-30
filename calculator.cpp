@@ -9,9 +9,10 @@ void subtraction(){
 }
 
 void multiplication(){
+    int ans = a * b;
 
 }
 
 void division(){
-    
+    int ans = a / b;
 }
